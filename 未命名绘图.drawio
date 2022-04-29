@@ -1,1 +1,166 @@
-<mxfile host="app.diagrams.net" modified="2022-04-25T02:28:19.042Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36" etag="53DSOl_7oF9JQcCUucNQ" version="17.4.6" type="github"><diagram id="8iZnDLwzPEvl67Jgspx_" name="第 1 页">7Vpbb6M6EP41fkzFPfBYcjmro12dSn3Y9tEFB3xKcGScJtlff2wwBGzIrbTdlU4Uqfb4gvlm5psZp8Cerfd/UbhJf5AYZcAy4j2w58CyTMeygPga8aGSTA2vEiQUx3LSUfCIfyEpNKR0i2NUdCYyQjKGN11hRPIcRawjg5SSXXfaimTdp25ggjTBYwQzXfoTxyytpL41Pcq/IZyk9ZNNL6hG1rCeLN+kSGFMdi2RvQD2jBLCqtZ6P0OZAK/GpVq3HBhtDkZRzi5Z8M/EvJ+8/vS//f3jwZikzHiYPE3kLm8w28oXlodlhxoBvgsHm3fCXYoZetzASIzsuL65LGXrjPdM3oTFptLACu8Rf2hYvCIWpXJ0hbNsRjJCy13t5XI2W/KjhpRs81hMnxu8J4+DKEP7wfc0G/S42SGyRowe+BS5wLYl4NLizED2d0f9mb6UpW3d1UIobSZp9j7CyhsS2StQtjSUE8QYohrWXTDO4H0aXo9/RgLU6wJqOT2AWj2A2h+Fp63hWfzJePYZ6Kfi6Wh4MoqTRADqZfzh4YtoJaJF0YS/Z9yDNYo5ccouoSwlCclhtjhKw2hL30plaGgf538nZCOF/3KdHmREgFtGutpCe8yepGJF+1m071zZm+9bQ/ND3ck5Wk/1BqLTWiW6x2Vlr163IjmTBzE92e8Yh80/jXEIIE6bBseNbGmETqjElbEOUk4Vpwh8wNYoyiDDb92DjG44rmY4O8i12mcdHxJFDMM10EpMYpS8os6IOQ9nJ3SVwReUhTB6TUqSqKfEaAW3pc2rSh89ULm+wgM6DfSFqQ+LUt4FuUAe34ukiveiDBYFjrrK62LU1dyFPtT4aMstn9suO+CjHXK53BHPOpj7Tv+SSx8I5k9udO+ounedO7e7SUURcl07r1O28pyzW1UvqW3FVQkPrWkbMaEYPrTrKk9SM051fqBkYn5nPm9UJziabAPw7VY81a144YBwAYI5WPggdEHggYUHAi7kjQAEIfC93mj2XVBEGfMK/Au+lEOGwlYZTnLhDdyuOOvZoWAEzMuHezmwxnFcBr+zfHOTtwylKX1kJUsk+SKg4ZszJDbMFV8Vdfzfi6jUZML3z1BV2XtAFHM4hNHo/FWFs7rgtP5ERrMN5zY+U8OittFYbBb0p+GDPKum7e6Z+VOF/bxPYL+gh/0CwBEN7sFiCoIluHdL9gtB6JQND4T1BcX/7Hch+/lfyX71zVhLx79ZRdZUYc+tkf6K7AsqK/NSnjTtL1WzfjVXq1mtyVfbPGKY5JoBXHX9MaqLGuVHd1FkR34p1wq20AhcY6TKyjTVEAK0Cxb7M0srU78BvDpluYkhb6qKRs8NbLXamSpAX5obaGWTutFAbjBWeDX1m8c3TNmWQrF0TtaCVyhCmnKLFG5Ek5V/PtUVz0bLERxOTaW8Hoeb9jicqepvPI/T7zRPeVxOcqGXGBZp4y4thQj5AxRXzHkpsQy7N0t/v4/ecq05YnC0+tXc0qPbo8Za9l6aUO8X3BtpwlRowlQ3GqmEsNSrF+sTUnxTv3RlZMut7lQSf1PSrmb+Eg6+uRsCd351+tZDMUNZ+dkUvPLvQUKaGHeGU1/rSO3UP3PcaqX1FLJaFehjwot+BRtDBr8yrxshONhKIdz8tt+ODmYPrVjXBwfePf6iXqnl+H8J9uI/</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-04-29T01:47:21.733Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36" etag="c4MiHPvR-GEmOOtK3jXq" version="17.4.6" type="github">
+  <diagram id="8iZnDLwzPEvl67Jgspx_" name="第 1 页">
+    <mxGraphModel dx="1422" dy="1875" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="rL8voNZ1Dj498tSovd-I-25" value="" style="edgeStyle=orthogonalEdgeStyle;curved=1;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;fontColor=#FF6666;strokeWidth=2;" edge="1" parent="1" source="rL8voNZ1Dj498tSovd-I-1" target="rL8voNZ1Dj498tSovd-I-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rL8voNZ1Dj498tSovd-I-1" value="Dep（每一个data属性，&#xa;对应一个dep）" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;labelBackgroundColor=default;sketch=1;fontSize=12;fontColor=#FF3333;" vertex="1" parent="1">
+          <mxGeometry x="125" y="170" width="190" height="195" as="geometry" />
+        </mxCell>
+        <mxCell id="rL8voNZ1Dj498tSovd-I-2" value="subs" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;labelBackgroundColor=default;sketch=1;fontSize=16;fontColor=#97D077;" vertex="1" parent="rL8voNZ1Dj498tSovd-I-1">
+          <mxGeometry y="26" width="190" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="rL8voNZ1Dj498tSovd-I-3" value="depend" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;labelBackgroundColor=default;sketch=1;fontSize=16;fontColor=#FF3333;" vertex="1" parent="rL8voNZ1Dj498tSovd-I-1">
+          <mxGeometry y="60" width="190" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="rL8voNZ1Dj498tSovd-I-4" value="addsub：&#xa;    将Dep.target添加到subs中&#xa;    调用Dep.target.addDep(this)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;labelBackgroundColor=default;sketch=1;fontSize=16;fontColor=#FF3333;" vertex="1" parent="rL8voNZ1Dj498tSovd-I-1">
+          <mxGeometry y="88" width="190" height="82" as="geometry" />
+        </mxCell>
+        <mxCell id="rL8voNZ1Dj498tSovd-I-32" value="notify" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;labelBackgroundColor=default;sketch=1;fontSize=16;fontColor=#FF3333;" vertex="1" parent="rL8voNZ1Dj498tSovd-I-1">
+          <mxGeometry y="170" width="190" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="rL8voNZ1Dj498tSovd-I-5" value="Watcher" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;labelBackgroundColor=default;sketch=1;fontSize=16;fontColor=#FF3333;" vertex="1" parent="1">
+          <mxGeometry x="510" y="205" width="140" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="rL8voNZ1Dj498tSovd-I-6" value="deps" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;labelBackgroundColor=default;sketch=1;fontSize=16;fontColor=#B9E0A5;" vertex="1" parent="rL8voNZ1Dj498tSovd-I-5">
+          <mxGeometry y="26" width="140" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="rL8voNZ1Dj498tSovd-I-7" value="get" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;labelBackgroundColor=default;sketch=1;fontSize=16;fontColor=#FF3333;" vertex="1" parent="rL8voNZ1Dj498tSovd-I-5">
+          <mxGeometry y="52" width="140" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="rL8voNZ1Dj498tSovd-I-8" value="addDep&#xa;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;labelBackgroundColor=default;sketch=1;fontSize=16;fontColor=#FF3333;" vertex="1" parent="rL8voNZ1Dj498tSovd-I-5">
+          <mxGeometry y="78" width="140" height="82" as="geometry" />
+        </mxCell>
+        <mxCell id="rL8voNZ1Dj498tSovd-I-44" value="" style="endArrow=classic;html=1;sketch=1;fontSize=16;fontColor=#FF6666;strokeWidth=2;curved=1;exitX=1;exitY=0.329;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="rL8voNZ1Dj498tSovd-I-5" source="rL8voNZ1Dj498tSovd-I-8" target="rL8voNZ1Dj498tSovd-I-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="80" y="-95" as="sourcePoint" />
+            <mxPoint x="180" y="-95" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="200" y="75" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rL8voNZ1Dj498tSovd-I-45" value="将dep添加到deps中" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;labelBackgroundColor=default;sketch=1;fontSize=16;fontColor=#FF6666;fillColor=#FF6666;" connectable="0" vertex="1" parent="rL8voNZ1Dj498tSovd-I-44">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="32" y="-10" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rL8voNZ1Dj498tSovd-I-9" value="data：{&lt;br&gt;a: 1,&lt;br&gt;b: 3&lt;br&gt;}" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.flowchart.on-page_reference;labelBackgroundColor=default;sketch=1;fontSize=16;fontColor=#B9E0A5;fillColor=#FF6666;align=center;" vertex="1" parent="1">
+          <mxGeometry x="315" y="-170" width="185" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="rL8voNZ1Dj498tSovd-I-15" value="&lt;font color=&quot;#009900&quot;&gt;setter&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;labelBackgroundColor=default;sketch=1;fontColor=#B9E0A5;" vertex="1" parent="1">
+          <mxGeometry x="340" y="-150" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="rL8voNZ1Dj498tSovd-I-16" value="&lt;font color=&quot;#ff6666&quot;&gt;getter&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;labelBackgroundColor=default;sketch=1;fontColor=#B9E0A5;" vertex="1" parent="1">
+          <mxGeometry x="340" y="-100" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="rL8voNZ1Dj498tSovd-I-17" value="&lt;ol&gt;&lt;li&gt;new&amp;nbsp; Vue ，构造函数，调用initData&lt;/li&gt;&lt;li&gt;调用obseve， 对 data进行响应式化，对setter和getter进行劫持， 数组进行原型链改造，重写数组的一些方法&lt;/li&gt;&lt;li&gt;构造函数调用 mount（）开始挂载dom&lt;/li&gt;&lt;/ol&gt;&lt;ul&gt;&lt;ul&gt;&lt;li&gt;调用createRenderFn（）生成render 函数，这一步会去读取data，生成带有数据的vnode， render函数的返回值 会是一个编译好的带有data数据的vNode&lt;/li&gt;&lt;li&gt;调用mountComponet -》调用mount-》调用update，将vnode 挂载到真实dom上面&lt;/li&gt;&lt;/ul&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=default;sketch=1;fontSize=16;fontColor=#FF6666;" vertex="1" parent="1">
+          <mxGeometry x="910" y="-630" width="450" height="620" as="geometry" />
+        </mxCell>
+        <mxCell id="rL8voNZ1Dj498tSovd-I-19" value="" style="endArrow=classic;html=1;sketch=1;fontSize=16;fontColor=#FF6666;strokeWidth=2;curved=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="350" y="-80.5" as="sourcePoint" />
+            <mxPoint x="110" y="260" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="30" y="20" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rL8voNZ1Dj498tSovd-I-20" value="依赖收集。调用depend方法" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;labelBackgroundColor=default;sketch=1;fontSize=16;fontColor=#FF6666;fillColor=#FF6666;" connectable="0" vertex="1" parent="rL8voNZ1Dj498tSovd-I-19">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="50" y="12" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rL8voNZ1Dj498tSovd-I-21" value="&lt;ol&gt;&lt;li&gt;调用 mountCompnet&lt;/li&gt;&lt;li&gt;调用new Watcher（）&lt;/li&gt;&lt;li&gt;watcher构造函数调用get&lt;/li&gt;&lt;li&gt;get函数中调用pushTarget（this）&lt;/li&gt;&lt;li&gt;调用vue的mount方法-》调用vue的update -》调用render-》将vnode+data整合-》此时会读取data，开始触发data中各个属性的getter&lt;/li&gt;&lt;li&gt;调用popTarget，将Dep。target重置为null&lt;/li&gt;&lt;li&gt;依赖收集完成，此时每个属性的dep的subs[]中存了对应的wather, wather的deps中存了对应的dep，相互依赖&lt;/li&gt;&lt;/ol&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;labelBackgroundColor=default;sketch=1;fontSize=16;fontColor=#FF6666;fillColor=#FF6666;align=left;" vertex="1" parent="1">
+          <mxGeometry x="280" y="-580" width="320" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="rL8voNZ1Dj498tSovd-I-24" value="Dep.target = null" style="whiteSpace=wrap;html=1;fontSize=16;fillColor=none;fontColor=#FF3333;fontStyle=0;startSize=26;labelBackgroundColor=default;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="217" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rL8voNZ1Dj498tSovd-I-26" value="" style="endArrow=classic;html=1;sketch=1;fontSize=16;fontColor=#FF6666;strokeWidth=2;curved=1;exitX=1.017;exitY=0.408;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="rL8voNZ1Dj498tSovd-I-21">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="590" y="-300" as="sourcePoint" />
+            <mxPoint x="430" y="210" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="860" y="-170" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rL8voNZ1Dj498tSovd-I-27" value="第四步，将该watcher 存到Dep类的静态属性上&lt;br&gt;&lt;font color=&quot;#009900&quot;&gt;Dep.target&amp;nbsp; = watcher&lt;/font&gt;" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;labelBackgroundColor=default;sketch=1;fontSize=16;fontColor=#FF6666;fillColor=#FF6666;" connectable="0" vertex="1" parent="rL8voNZ1Dj498tSovd-I-26">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-101" y="-21" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rL8voNZ1Dj498tSovd-I-28" value="" style="endArrow=classic;html=1;sketch=1;fontSize=16;fontColor=#009900;strokeWidth=2;curved=1;exitX=0.004;exitY=0.675;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="rL8voNZ1Dj498tSovd-I-21">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="590" y="-290" as="sourcePoint" />
+            <mxPoint x="350" y="-80" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="180" y="-230" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rL8voNZ1Dj498tSovd-I-29" value="&lt;font color=&quot;#ff6666&quot;&gt;第五步、触发getter&lt;/font&gt;" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;labelBackgroundColor=default;sketch=1;fontSize=16;fontColor=#009900;fillColor=#FF6666;" connectable="0" vertex="1" parent="rL8voNZ1Dj498tSovd-I-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rL8voNZ1Dj498tSovd-I-36" value="" style="edgeStyle=orthogonalEdgeStyle;curved=1;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;fontColor=#FF6666;strokeWidth=2;" edge="1" parent="1" source="rL8voNZ1Dj498tSovd-I-34" target="rL8voNZ1Dj498tSovd-I-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rL8voNZ1Dj498tSovd-I-34" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;labelBackgroundColor=default;sketch=1;fontSize=16;fontColor=#FF6666;fillColor=#FF6666;" vertex="1" parent="1">
+          <mxGeometry x="40" y="297" width="10" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="rL8voNZ1Dj498tSovd-I-35" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;entryX=1;entryY=0;sketch=1;fontSize=16;fontColor=#FF6666;strokeWidth=2;curved=1;" edge="1" target="rL8voNZ1Dj498tSovd-I-34" parent="1">
+          <mxGeometry x="1" y="21" relative="1" as="geometry">
+            <mxPoint x="120" y="270" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="110" y="270" />
+              <mxPoint x="120" y="270" />
+              <mxPoint x="120" y="277" />
+              <mxPoint x="20" y="277" />
+              <mxPoint x="20" y="297" />
+            </Array>
+            <mxPoint x="-5" y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rL8voNZ1Dj498tSovd-I-37" value="" style="endArrow=classic;html=1;sketch=1;fontSize=16;fontColor=#FF6666;strokeWidth=2;curved=1;entryX=0;entryY=0.244;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.995;exitY=0.622;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="rL8voNZ1Dj498tSovd-I-4" target="rL8voNZ1Dj498tSovd-I-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="260" y="337" as="sourcePoint" />
+            <mxPoint x="360" y="337" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="380" y="330" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rL8voNZ1Dj498tSovd-I-48" value="&lt;font color=&quot;#009900&quot;&gt;更新调用setter&lt;/font&gt;" style="endArrow=classic;html=1;sketch=1;fontSize=12;fontColor=#FF6666;strokeWidth=2;curved=1;entryX=0.145;entryY=0.145;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#60a917;strokeColor=#2D7600;" edge="1" parent="1" source="rL8voNZ1Dj498tSovd-I-52" target="rL8voNZ1Dj498tSovd-I-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="149.70588235294122" y="-400" as="sourcePoint" />
+            <mxPoint x="210" y="-400" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="160" y="-330" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rL8voNZ1Dj498tSovd-I-49" value="" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;labelBackgroundColor=default;sketch=1;fontSize=12;fontColor=#FF6666;fillColor=#FF6666;" connectable="0" vertex="1" parent="rL8voNZ1Dj498tSovd-I-48">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rL8voNZ1Dj498tSovd-I-50" value="" style="endArrow=classic;html=1;sketch=1;fontSize=12;fontColor=#FF6666;strokeWidth=2;curved=1;fillColor=#60a917;strokeColor=#2D7600;" edge="1" parent="1" source="rL8voNZ1Dj498tSovd-I-15" target="rL8voNZ1Dj498tSovd-I-32">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="590" y="180" as="sourcePoint" />
+            <mxPoint x="690" y="180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rL8voNZ1Dj498tSovd-I-51" value="&lt;ol&gt;&lt;li&gt;&lt;b&gt;&lt;font color=&quot;#009900&quot;&gt;调用notify&lt;/font&gt;&lt;/b&gt;&lt;/li&gt;&lt;li style=&quot;text-align: left&quot;&gt;&lt;b&gt;&lt;font color=&quot;#009900&quot;&gt;调用subs中的所有wathcer&lt;/font&gt;&lt;/b&gt;&lt;/li&gt;&lt;li style=&quot;text-align: left&quot;&gt;&lt;b&gt;&lt;font color=&quot;#009900&quot;&gt;wather调用update方法&lt;/font&gt;&lt;/b&gt;&lt;/li&gt;&lt;li style=&quot;text-align: left&quot;&gt;&lt;b&gt;&lt;font color=&quot;#009900&quot;&gt;update调用run方法&lt;/font&gt;&lt;/b&gt;&lt;/li&gt;&lt;li style=&quot;text-align: left&quot;&gt;&lt;b&gt;&lt;font color=&quot;#009900&quot;&gt;run 调用get方法（会重新收集依赖，需要判断dep&lt;br&gt;和wather 唯一id，防止重复收集），更新dom&lt;/font&gt;&lt;/b&gt;&lt;/li&gt;&lt;/ol&gt;" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;labelBackgroundColor=default;sketch=1;fontSize=12;fontColor=#FF6666;fillColor=#FF6666;" connectable="0" vertex="1" parent="rL8voNZ1Dj498tSovd-I-50">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="86" y="-5" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rL8voNZ1Dj498tSovd-I-52" value="&lt;font color=&quot;#009900&quot;&gt;&lt;span style=&quot;text-align: left&quot;&gt;数据更新&lt;/span&gt;&lt;br style=&quot;text-align: left&quot;&gt;&lt;/font&gt;&lt;ol style=&quot;text-align: left&quot;&gt;&lt;li&gt;&lt;font color=&quot;#009900&quot;&gt;data.a = 15&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font color=&quot;#009900&quot;&gt;触发setter&lt;/font&gt;&lt;/li&gt;&lt;/ol&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;labelBackgroundColor=default;sketch=1;fontSize=12;fontColor=#ffffff;fillColor=#60a917;strokeColor=#2D7600;" vertex="1" parent="1">
+          <mxGeometry x="50" y="-584" width="170" height="140" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
